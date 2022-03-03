@@ -1,0 +1,1 @@
+{"name":"Local: test_79","url":"c:\\Users\\DELL\\Documents\\Practice\\phase_3\\test_79.cpp","tests":[{"id":1622291778891,"input":"2 4\n*.*.\n1211\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\Documents\\Practice\\phase_3\\test_79.cpp","group":"local","local":true}

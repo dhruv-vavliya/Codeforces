@@ -1,0 +1,1 @@
+{"name":"Local: test_95","url":"c:\\Users\\DELL\\Documents\\Practice\\phase_4\\test_95.cpp","tests":[{"id":1627471921278,"input":"3\nAZAMON APPLE\nAZAMON AAAAAAAAAAALIBABA\nAPPLE BANANA","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\Documents\\Practice\\phase_4\\test_95.cpp","group":"local","local":true}
